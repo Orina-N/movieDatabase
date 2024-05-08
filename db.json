@@ -282,56 +282,6 @@
           ]
       },
       {
-          "id": 40133,
-          "name": "Red Lentil Soup With Lemon",
-          "slug": "1016062-red-lentil-soup-with-lemon",
-          "image_path": "https://imgs.search.brave.com/_19bGpOe7EeaoXMzktW0SWrwcEI2kA6ElwVJUPkRFPE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9ncmVl/bnZhbGxleWtpdGNo/ZW4uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE0LzExL1Jl/ZC1MZW50aWwtQ2Fy/cm90LVNvdXAuanBn",
-          "description": "This is a lentil soup that defies expectations of what lentil soup can be. Based on a Turkish lentil soup, mercimek corbasi, it is light, spicy and a bold red color (no murky brown here): a revelatory dish that takes less than an hour to make. The cooking is painless. Sauté onion and garlic in oil, then stir in tomato paste, cumin and chile powder and cook a few minutes more to intensify flavor. Add broth, water, red lentils (which cook faster than their green or black counterparts) and diced carrot, and simmer for 30 minutes. Purée half the mixture and return it to the pot for a soup that strikes the balance between chunky and pleasingly smooth. A hit of lemon juice adds an up note that offsets the deep cumin and chile flavors.",
-          "total_time_string": "1 hour",
-          "servings": "4 servings",
-          "rating_value": 5,
-          "rating_count": 17746,
-          "ingredients": [
-              "3 tablespoons olive oil, more for drizzling",
-              "1 large onion, chopped",
-              "2 garlic cloves, minced",
-              "1 tablespoon tomato paste",
-              "1 teaspoon ground cumin",
-              "1/4 teaspoon kosher salt, more to taste",
-              "1/4 teaspoon ground black pepper",
-              " Pinch of ground chile powder or cayenne, more to taste",
-              "1 quart chicken or vegetable broth",
-              "2 cups water",
-              "1 cup red lentils",
-              "1 large carrot, peeled and diced",
-              " Juice of 1/2 lemon, more to taste",
-              "3 tablespoons chopped fresh cilantro"
-          ],
-          "instructions": [
-              "In a <a href='https://www.nytimes.com/wirecutter/reviews/best-dutch-oven/'>large pot</a>, heat 3 tablespoons oil over high heat until hot and shimmering. Add onion and garlic, and sauté until golden, about 4 minutes.",
-              "Stir in tomato paste, cumin, salt, black pepper and chili powder or cayenne, and sauté for 2 minutes longer.",
-              "Add broth, 2 cups water, lentils and carrot. Bring to a simmer, then partially cover pot and turn heat to medium-low. Simmer until lentils are soft, about 30 minutes. Taste and add salt if necessary.",
-              "Using an immersion or regular blender or a food processor, purée half the soup then add it back to pot. Soup should be somewhat chunky.",
-              "Reheat soup if necessary, then stir in lemon juice and cilantro. Serve soup drizzled with good olive oil and dusted lightly with chili powder if desired."
-          ],
-          "author": "Melissa Clark",
-          "date_added": "2020-12-06",
-          "categories": [
-              5488,
-              10354,
-              5492,
-              5493,
-              8713,
-              5496,
-              5497,
-              5498,
-              9745,
-              8992,
-              5552,
-              5502
-          ]
-      },
-      {
           "id": 32571,
           "name": "Caramelized Shallot Pasta",
           "slug": "1020830-caramelized-shallot-pasta",
